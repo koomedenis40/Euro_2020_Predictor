@@ -4,7 +4,7 @@ This repository contains the code used to win the Royal Statisical Society's Eur
 
 The code is based on a simple double Poisson model, where each team A is given an attacking strength O_A 
 and a defensive vulnerability V_A. Then, the goals scored by team A against team B are assumed to be Poisson 
-distributed with mean O_A * V_B
+distributed with mean O_A * V_B.
 
 While the code is currently set up to predict Euro 2020, it is simple to change it to work for another 
 football tournament. One simply needs a CSV file containing previous results between the teams in the
