@@ -1,0 +1,313 @@
+team1_name,team2_name,Match Type
+Turkey,Italy,Group
+Wales,Italy,Group
+Switzerland,Italy,Group
+Wales,Turkey,Group
+Switzerland,Turkey,Group
+Switzerland,Wales,Group
+Denmark,Belgium,Group
+Russia,Belgium,Group
+Finland,Belgium,Group
+Russia,Denmark,Group
+Finland,Denmark,Group
+Finland,Russia,Group
+Ukraine,Netherlands,Group
+Austria,Netherlands,Group
+North Macedonia,Netherlands,Group
+Austria,Ukraine,Group
+North Macedonia,Ukraine,Group
+North Macedonia,Austria,Group
+Croatia,England,Group
+Czech Republic,England,Group
+Scotland,England,Group
+Czech Republic,Croatia,Group
+Scotland,Croatia,Group
+Scotland,Czech Republic,Group
+Sweden,Spain,Group
+Poland,Spain,Group
+Slovakia,Spain,Group
+Poland,Sweden,Group
+Slovakia,Sweden,Group
+Slovakia,Poland,Group
+France,Germany,Group
+Portugal,Germany,Group
+Hungary,Germany,Group
+Portugal,France,Group
+Hungary,France,Group
+Hungary,Portugal,Group
+Turkey,Italy,Knockout
+Wales,Italy,Knockout
+Switzerland,Italy,Knockout
+Belgium,Italy,Knockout
+Denmark,Italy,Knockout
+Russia,Italy,Knockout
+Finland,Italy,Knockout
+Netherlands,Italy,Knockout
+Ukraine,Italy,Knockout
+Austria,Italy,Knockout
+North Macedonia,Italy,Knockout
+England,Italy,Knockout
+Croatia,Italy,Knockout
+Czech Republic,Italy,Knockout
+Scotland,Italy,Knockout
+Spain,Italy,Knockout
+Sweden,Italy,Knockout
+Poland,Italy,Knockout
+Slovakia,Italy,Knockout
+Germany,Italy,Knockout
+France,Italy,Knockout
+Portugal,Italy,Knockout
+Hungary,Italy,Knockout
+Wales,Turkey,Knockout
+Switzerland,Turkey,Knockout
+Belgium,Turkey,Knockout
+Denmark,Turkey,Knockout
+Russia,Turkey,Knockout
+Finland,Turkey,Knockout
+Netherlands,Turkey,Knockout
+Ukraine,Turkey,Knockout
+Austria,Turkey,Knockout
+North Macedonia,Turkey,Knockout
+England,Turkey,Knockout
+Croatia,Turkey,Knockout
+Czech Republic,Turkey,Knockout
+Scotland,Turkey,Knockout
+Spain,Turkey,Knockout
+Sweden,Turkey,Knockout
+Poland,Turkey,Knockout
+Slovakia,Turkey,Knockout
+Germany,Turkey,Knockout
+France,Turkey,Knockout
+Portugal,Turkey,Knockout
+Hungary,Turkey,Knockout
+Switzerland,Wales,Knockout
+Belgium,Wales,Knockout
+Denmark,Wales,Knockout
+Russia,Wales,Knockout
+Finland,Wales,Knockout
+Netherlands,Wales,Knockout
+Ukraine,Wales,Knockout
+Austria,Wales,Knockout
+North Macedonia,Wales,Knockout
+England,Wales,Knockout
+Croatia,Wales,Knockout
+Czech Republic,Wales,Knockout
+Scotland,Wales,Knockout
+Spain,Wales,Knockout
+Sweden,Wales,Knockout
+Poland,Wales,Knockout
+Slovakia,Wales,Knockout
+Germany,Wales,Knockout
+France,Wales,Knockout
+Portugal,Wales,Knockout
+Hungary,Wales,Knockout
+Belgium,Switzerland,Knockout
+Denmark,Switzerland,Knockout
+Russia,Switzerland,Knockout
+Finland,Switzerland,Knockout
+Netherlands,Switzerland,Knockout
+Ukraine,Switzerland,Knockout
+Austria,Switzerland,Knockout
+North Macedonia,Switzerland,Knockout
+England,Switzerland,Knockout
+Croatia,Switzerland,Knockout
+Czech Republic,Switzerland,Knockout
+Scotland,Switzerland,Knockout
+Spain,Switzerland,Knockout
+Sweden,Switzerland,Knockout
+Poland,Switzerland,Knockout
+Slovakia,Switzerland,Knockout
+Germany,Switzerland,Knockout
+France,Switzerland,Knockout
+Portugal,Switzerland,Knockout
+Hungary,Switzerland,Knockout
+Denmark,Belgium,Knockout
+Russia,Belgium,Knockout
+Finland,Belgium,Knockout
+Netherlands,Belgium,Knockout
+Ukraine,Belgium,Knockout
+Austria,Belgium,Knockout
+North Macedonia,Belgium,Knockout
+England,Belgium,Knockout
+Croatia,Belgium,Knockout
+Czech Republic,Belgium,Knockout
+Scotland,Belgium,Knockout
+Spain,Belgium,Knockout
+Sweden,Belgium,Knockout
+Poland,Belgium,Knockout
+Slovakia,Belgium,Knockout
+Germany,Belgium,Knockout
+France,Belgium,Knockout
+Portugal,Belgium,Knockout
+Hungary,Belgium,Knockout
+Russia,Denmark,Knockout
+Finland,Denmark,Knockout
+Netherlands,Denmark,Knockout
+Ukraine,Denmark,Knockout
+Austria,Denmark,Knockout
+North Macedonia,Denmark,Knockout
+England,Denmark,Knockout
+Croatia,Denmark,Knockout
+Czech Republic,Denmark,Knockout
+Scotland,Denmark,Knockout
+Spain,Denmark,Knockout
+Sweden,Denmark,Knockout
+Poland,Denmark,Knockout
+Slovakia,Denmark,Knockout
+Germany,Denmark,Knockout
+France,Denmark,Knockout
+Portugal,Denmark,Knockout
+Hungary,Denmark,Knockout
+Finland,Russia,Knockout
+Netherlands,Russia,Knockout
+Ukraine,Russia,Knockout
+Austria,Russia,Knockout
+North Macedonia,Russia,Knockout
+England,Russia,Knockout
+Croatia,Russia,Knockout
+Czech Republic,Russia,Knockout
+Scotland,Russia,Knockout
+Spain,Russia,Knockout
+Sweden,Russia,Knockout
+Poland,Russia,Knockout
+Slovakia,Russia,Knockout
+Germany,Russia,Knockout
+France,Russia,Knockout
+Portugal,Russia,Knockout
+Hungary,Russia,Knockout
+Netherlands,Finland,Knockout
+Ukraine,Finland,Knockout
+Austria,Finland,Knockout
+North Macedonia,Finland,Knockout
+England,Finland,Knockout
+Croatia,Finland,Knockout
+Czech Republic,Finland,Knockout
+Scotland,Finland,Knockout
+Spain,Finland,Knockout
+Sweden,Finland,Knockout
+Poland,Finland,Knockout
+Slovakia,Finland,Knockout
+Germany,Finland,Knockout
+France,Finland,Knockout
+Portugal,Finland,Knockout
+Hungary,Finland,Knockout
+Ukraine,Netherlands,Knockout
+Austria,Netherlands,Knockout
+North Macedonia,Netherlands,Knockout
+England,Netherlands,Knockout
+Croatia,Netherlands,Knockout
+Czech Republic,Netherlands,Knockout
+Scotland,Netherlands,Knockout
+Spain,Netherlands,Knockout
+Sweden,Netherlands,Knockout
+Poland,Netherlands,Knockout
+Slovakia,Netherlands,Knockout
+Germany,Netherlands,Knockout
+France,Netherlands,Knockout
+Portugal,Netherlands,Knockout
+Hungary,Netherlands,Knockout
+Austria,Ukraine,Knockout
+North Macedonia,Ukraine,Knockout
+England,Ukraine,Knockout
+Croatia,Ukraine,Knockout
+Czech Republic,Ukraine,Knockout
+Scotland,Ukraine,Knockout
+Spain,Ukraine,Knockout
+Sweden,Ukraine,Knockout
+Poland,Ukraine,Knockout
+Slovakia,Ukraine,Knockout
+Germany,Ukraine,Knockout
+France,Ukraine,Knockout
+Portugal,Ukraine,Knockout
+Hungary,Ukraine,Knockout
+North Macedonia,Austria,Knockout
+England,Austria,Knockout
+Croatia,Austria,Knockout
+Czech Republic,Austria,Knockout
+Scotland,Austria,Knockout
+Spain,Austria,Knockout
+Sweden,Austria,Knockout
+Poland,Austria,Knockout
+Slovakia,Austria,Knockout
+Germany,Austria,Knockout
+France,Austria,Knockout
+Portugal,Austria,Knockout
+Hungary,Austria,Knockout
+England,North Macedonia,Knockout
+Croatia,North Macedonia,Knockout
+Czech Republic,North Macedonia,Knockout
+Scotland,North Macedonia,Knockout
+Spain,North Macedonia,Knockout
+Sweden,North Macedonia,Knockout
+Poland,North Macedonia,Knockout
+Slovakia,North Macedonia,Knockout
+Germany,North Macedonia,Knockout
+France,North Macedonia,Knockout
+Portugal,North Macedonia,Knockout
+Hungary,North Macedonia,Knockout
+Croatia,England,Knockout
+Czech Republic,England,Knockout
+Scotland,England,Knockout
+Spain,England,Knockout
+Sweden,England,Knockout
+Poland,England,Knockout
+Slovakia,England,Knockout
+Germany,England,Knockout
+France,England,Knockout
+Portugal,England,Knockout
+Hungary,England,Knockout
+Czech Republic,Croatia,Knockout
+Scotland,Croatia,Knockout
+Spain,Croatia,Knockout
+Sweden,Croatia,Knockout
+Poland,Croatia,Knockout
+Slovakia,Croatia,Knockout
+Germany,Croatia,Knockout
+France,Croatia,Knockout
+Portugal,Croatia,Knockout
+Hungary,Croatia,Knockout
+Scotland,Czech Republic,Knockout
+Spain,Czech Republic,Knockout
+Sweden,Czech Republic,Knockout
+Poland,Czech Republic,Knockout
+Slovakia,Czech Republic,Knockout
+Germany,Czech Republic,Knockout
+France,Czech Republic,Knockout
+Portugal,Czech Republic,Knockout
+Hungary,Czech Republic,Knockout
+Spain,Scotland,Knockout
+Sweden,Scotland,Knockout
+Poland,Scotland,Knockout
+Slovakia,Scotland,Knockout
+Germany,Scotland,Knockout
+France,Scotland,Knockout
+Portugal,Scotland,Knockout
+Hungary,Scotland,Knockout
+Sweden,Spain,Knockout
+Poland,Spain,Knockout
+Slovakia,Spain,Knockout
+Germany,Spain,Knockout
+France,Spain,Knockout
+Portugal,Spain,Knockout
+Hungary,Spain,Knockout
+Poland,Sweden,Knockout
+Slovakia,Sweden,Knockout
+Germany,Sweden,Knockout
+France,Sweden,Knockout
+Portugal,Sweden,Knockout
+Hungary,Sweden,Knockout
+Slovakia,Poland,Knockout
+Germany,Poland,Knockout
+France,Poland,Knockout
+Portugal,Poland,Knockout
+Hungary,Poland,Knockout
+Germany,Slovakia,Knockout
+France,Slovakia,Knockout
+Portugal,Slovakia,Knockout
+Hungary,Slovakia,Knockout
+France,Germany,Knockout
+Portugal,Germany,Knockout
+Hungary,Germany,Knockout
+Portugal,France,Knockout
+Hungary,France,Knockout
+Hungary,Portugal,Knockout
