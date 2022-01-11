@@ -12,3 +12,5 @@ football tournament. One simply needs a CSV file containing previous results bet
 tournament, and another file containing the matches that need to be predicted. These files should mimic
 the format of the two CSV files contained in this repository.
 
+Note that the results.csv file was taken from 
+https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
