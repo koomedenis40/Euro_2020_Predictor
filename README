@@ -9,5 +9,6 @@ distributed with mean O_A * V_B.
 
 While the code is currently set up to predict Euro 2020, it is simple to change it to work for another 
 football tournament. One simply needs a CSV file containing previous results between the teams in the
-tournament, and another file containing the matches that need to be predicted.
+tournament, and another file containing the matches that need to be predicted. These files should mimic
+the format of the two CSV files contained in this repository.
 
